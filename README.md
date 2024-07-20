@@ -1,3 +1,4 @@
+Клонирование репозитория: https://github.com/Kichmarevitmo/mytest0604.git
 ### **Цель**
 
 Применить на практике принципы из SOLID, GRASP, паттерны GoF.
